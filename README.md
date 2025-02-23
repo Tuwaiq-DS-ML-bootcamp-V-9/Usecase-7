@@ -34,6 +34,9 @@ pip install numpy pandas matplotlib seaborn scipy ydata_profiling hijridate arab
 - Mean Absolute Error (MAE)
     - Training:2.250287e+13
     - Testing:1.393053e+13
+- R² Score
+    - Training:0.7516816177999046
+    - Testing:0.7410937220057816
     
   
 ## 🔗 Future Improvements
