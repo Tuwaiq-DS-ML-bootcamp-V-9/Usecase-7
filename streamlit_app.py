@@ -14,6 +14,21 @@ st.set_page_config(page_title="تحليل ريال مدريد", page_icon="⚽",
 # إضافة بانر ريال مدريد
 st.image("https://i.postimg.cc/0jFymMHX/Screenshot-1446-08-24-at-2-36-53-PM.png", use_container_width=True)
 
+# إضافة العنوان الرئيسي تحت البانر
+st.markdown(
+    """
+    <h1 style='text-align: center; color: #004996;'>Real Madrid Players' Performance & Transfers Analysis ⚽📊</h1>
+    <p style='text-align: center; font-size:18px;'>
+    Welcome to this interactive analysis of Real Madrid in the transfer market! 
+    We will explore player performances, positions, market values, match participation, 
+    goal contributions, and the impact of injuries on both individual players and the team.
+    Let's dive in! 🚀
+    </p>
+    """,
+    unsafe_allow_html=True
+)
+
+
 # تحميل البيانات
 file_path = "real_madrid_data.csv"
 df = pd.read_csv(file_path)
