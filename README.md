@@ -32,14 +32,9 @@ This project analyzes a football dataset containing 10,754 player records across
   - Defenders and midfielders accumulate more `yellow cards` compared to other positions.
 
 - **Box Plots**:
+
+![alt text](image-1.png)
   - **Injury distribution** shows that some players are far more prone to injuries than others.
   - Goalkeepers tend to have **zero goals and assists**, while forwards dominate these metrics.
-
-## Conclusion
-
-- The dataset provides valuable insights into player performance and trends.
-- Clear patterns exist in `goals`, `assists`, `injuries`, and `cards`, showing different player contributions.
-- Some variables have extreme skewness, indicating outliers.
-- Future analysis can explore predictive modeling for player performance.
 
 
