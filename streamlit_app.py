@@ -12,7 +12,7 @@ alert_color = "#E62644"  # أحمر داكن
 st.set_page_config(page_title="تحليل ريال مدريد", page_icon="⚽", layout="wide")
 
 # إضافة بانر ريال مدريد
-st.image("https://i.postimg.cc/0jFymMHX/Screenshot-1446-08-24-at-2-36-53-PM.png", use_column_width=True)
+st.image("https://i.postimg.cc/0jFymMHX/Screenshot-1446-08-24-at-2-36-53-PM.png", use_container_width=True)
 
 # تحميل البيانات
 file_path = "real_madrid_data.csv"
