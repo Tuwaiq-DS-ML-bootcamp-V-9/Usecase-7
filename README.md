@@ -23,4 +23,15 @@ Through **Exploratory Data Analysis (EDA) and Machine Learning**, this project p
 - **Track the evolution of Real Madrid squad value** compared to the global transfer market.  
 - **Provide an interactive experience** where users can explore **player performances, injuries, and market trends** through Streamlit.  
 
+## 🛠️ Tools & Technologies  
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- **Jupyter Notebook / Google Colab** for data analysis and model development  
+- **Machine Learning**: Scikit-learn for predictive modeling  
+- **Data Visualization**: Streamlit for interactive storytelling and dashboards  
+- **Exploratory Data Analysis (EDA)** to understand trends in player transfers and market values  
 
+## 🔥 Key Insights  
+
+## 📌 Storytelling  
+To explore insights visually, visit our **Streamlit Storytelling Dashboard**:  
+👉 **[View the Dashboard Here](https://usecase-7-igmjq6zrxgwqhych9gxjf8.streamlit.app/)**  
