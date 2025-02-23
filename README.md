@@ -30,7 +30,12 @@ pip install numpy pandas matplotlib seaborn scipy ydata_profiling hijridate arab
 ![alt text](imges/scatt.png)
 
 ---
-
+## 🚀 Model Evaluation
+- Mean Absolute Error (MAE)
+    - Training:2.250287e+13
+    - Testing:1.393053e+13
+    
+  
 ## 🔗 Future Improvements
 - **Predictive analysis** using another machine learning model.
 
