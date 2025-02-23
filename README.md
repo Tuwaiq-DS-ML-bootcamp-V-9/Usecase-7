@@ -48,4 +48,4 @@ Each position has its own linear regression model for better accuracy. This appr
 - **R² Score - Testing:** 0.6263
 
 ## Try the App
-[Click here to access the app](#)  <!-- Replace # with your app link -->
+[Click here to access the app](https://football-player-price-predictor.streamlit.app)  <!-- Replace # with your app link -->
