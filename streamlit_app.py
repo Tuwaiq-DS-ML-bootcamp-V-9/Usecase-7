@@ -19,7 +19,7 @@ st.markdown(
     """
     <h1 style='text-align: center; color: #004996;'>Real Madrid Players' Performance & Transfers Analysis ⚽📊</h1>
     <p style='text-align: center; font-size:18px;'>
-    Welcome to this interactive analysis of Real Madrid in the transfer market! 
+    Welcome to this interactive analysis of Real Madrid in the transfer market for the two seasons: 2021-2022 and 2022-2023! 
     We will explore player performances, positions, market values, match participation, 
     goal contributions, and the impact of injuries on both individual players and the team.
     Let's dive in! 🚀
