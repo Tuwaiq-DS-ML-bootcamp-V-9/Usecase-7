@@ -31,6 +31,23 @@ Through **Exploratory Data Analysis (EDA) and Machine Learning**, this project p
 - **Exploratory Data Analysis (EDA)** to understand trends in player transfers and market values  
 
 ## 🔥 Key Insights  
+- Teams prioritize defense (32.8%) and midfield (28.8%) over forwards (27.0%), with goalkeepers (11.4%) being the least represented due to their specialized role.
+<img width="629" alt="Screenshot 1446-08-24 at 3 17 40 PM" src="https://github.com/user-attachments/assets/522b82e2-1c03-42c1-af16-5dbcd4722e7e" />
+
+
+
+- Daejeon Hana Citizen and Jeonbuk Hyundai Motors were the most active teams in the transfer market, indicating a high player turnover strategy.
+<img width="992" alt="Screenshot 1446-08-24 at 3 20 00 PM" src="https://github.com/user-attachments/assets/5701f7ed-f422-4ac7-9a4a-e858ccc81847" />
+
+
+
+- Defenders play the most minutes on average, highlighting their crucial role in maintaining team stability.
+<img width="706" alt="Screenshot 1446-08-24 at 3 20 42 PM" src="https://github.com/user-attachments/assets/4a9654f0-8b63-433e-9c04-e8eff5242a4a" />
+
+
+
+- Player market value has a strong positive correlation with highest historical value, appearances, and awards received.
+
 
 ## 📌 Storytelling  
 To explore insights visually, visit our **Streamlit Storytelling Dashboard**:  
