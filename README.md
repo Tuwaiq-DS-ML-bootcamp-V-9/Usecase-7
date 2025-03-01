@@ -45,8 +45,10 @@ The dataset contains **10,754 records** with **22 columns** of information. Belo
 ---
 
 ## 📈 **Model Training and Evaluation**
-- **Model Used:** Linear Regression to predict `current_value`.
-
+- **Model Used:**
+- Linear Regression to predict `current_value`.
+- Ridge Regression: Used to handle multicollinearity and improve generalization.
+- Lasso Regression: Used for feature selection by shrinking less important coefficients to zero.
 
 ---
 
